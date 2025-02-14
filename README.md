@@ -20,7 +20,7 @@ pinMode(trigPin, OUTPUT);
 pinMode(led, OUTPUT);
 pinMode(echoPin, INPUT);
 
-}.
+}
 
 void loop() {
 
